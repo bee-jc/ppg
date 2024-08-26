@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SeasonEpisodes should render season header and episode cards 1`] = `
+<DocumentFragment>
+  <div
+    class="css-i444qj"
+  >
+    Season 1
+  </div>
+  <div
+    class="css-1fagh72"
+  >
+    <div
+      data-testid="episode-card-1"
+    >
+      Episode 1
+    </div>
+    <div
+      data-testid="episode-card-2"
+    >
+      Episode 2
+    </div>
+  </div>
+</DocumentFragment>
+`;

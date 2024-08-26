@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowDetail should render correctly with mock data 1`] = `
+<DocumentFragment>
+  <div
+    class="css-r4r7y2"
+  >
+    <main
+      class="css-1iv0tiv"
+    >
+      <section
+        class="css-ec5vh9"
+      >
+        <img
+          alt="Show Image"
+          class="css-4ofcwm"
+          src="http://example.com/show.jpg"
+        />
+        <div
+          class="css-1c5ad3y"
+        >
+          The Powerpuff Girls is an award-winning animated action series about three super-powered little girls Bubbles, Blossom and Buttercup with one very big mission: saving the world before bedtime.
+        </div>
+      </section>
+      <div
+        class="css-oauwje"
+      >
+        <div
+          class="css-1p822b5"
+        >
+          <button
+            class="css-13nqquo"
+          >
+            <div
+              class="css-1vdtga9"
+            >
+              S01
+            </div>
+            <div
+              class="css-1wqfxc5"
+            >
+              (1 episodes)
+            </div>
+          </button>
+        </div>
+        <div
+          class="css-1hc9joy"
+        >
+          <div
+            class="css-i444qj"
+          >
+            Season 1
+          </div>
+          <div
+            class="css-1fagh72"
+          >
+            <a
+              class="css-3tqedt"
+              href="/episode/1"
+            >
+              <div
+                class="css-1v8ruy6"
+              >
+                <img
+                  alt="Episode 1"
+                  class="css-5y3q7n"
+                  src="http://example.com/medium1.jpg"
+                />
+              </div>
+              <div
+                class="css-14mp7s"
+              >
+                <div
+                  class="css-tqpnt9"
+                >
+                  Episode 1
+                </div>
+                <p
+                  class="css-juyb0m"
+                >
+                  Summary for Episode 1
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</DocumentFragment>
+`;
